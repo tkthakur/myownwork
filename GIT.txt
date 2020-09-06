@@ -1,0 +1,34 @@
+git status
+git init
+git add "file name"
+git add .  OR git add *
+git commit -m "message"
+git commit -a -m "message"
+
+git log (show all commits)
+git remote add origin URL
+git remote    (to show repositories)
+git remote -v (same)
+
+git push -u origin master
+git status
+
+git checkout -b "develop or branch name" (create and 
+                                           switch to develop)
+git status
+git checkout master
+git checkout develop
+git branch  (to see all branches)
+git branch -v
+git branch --merged
+git branch --no-merged
+
+git branch -d develop (to delete branch)
+git branch -D develop (to permanently delete branch without asking)
+ 
+git push origin develop
+git merge develop
+
+git config --global alias.st status
+
+git
