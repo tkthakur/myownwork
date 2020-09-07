@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09db5f72-880a-4453-941a-0878145cd950" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Pattern 10/src/com/practical/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pattern 10/src/com/practical/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/Pattern6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/out/production/Pattern6/com/practical/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pattern6/src/com/practical/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hAkXM6T6c9tZcUpUaNEQpvrcss" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.practical.Main" />
+      <module name="untitled" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09db5f72-880a-4453-941a-0878145cd950" name="Default Changelist" comment="" />
+      <created>1599461322548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599461322548</updated>
+    </task>
+    <servers />
+  </component>
+</project>
