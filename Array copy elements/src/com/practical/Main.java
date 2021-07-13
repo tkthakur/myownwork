@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         Scanner s=new Scanner(System.in);
-        System.out.println("ENter no of array elements");
+        System.out.println("Enter no of array elements");
         int arr=s.nextInt();
         int a[]=new int[arr];
         System.out.println("Enter array 1 elements");

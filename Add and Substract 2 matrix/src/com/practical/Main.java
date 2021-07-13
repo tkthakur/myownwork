@@ -24,7 +24,7 @@ public class Main {
 
     int[][] sub(int[][] x, int[][] y,int[][] z)
     {    if(x.length!=y.length||x[0].length!=y[0].length)
-        System.out.println("Matrices cannot be subtracted");
+        System.out.println("Matricess cannot be subtracted");
 
         else{
         for(int k=0;k<x.length;k++)
@@ -70,7 +70,8 @@ public class Main {
         }
 
     }
-    void lower_triangular_martix(int[][] x){
+
+    void lower_triangular_matrix(int[][] x){
         System.out.println("Lower triangular matrix of ARRAY 1");
         for(int k=0;k<x.length;k++)
         {
@@ -82,7 +83,7 @@ public class Main {
         }
 
     }
-    void upper_triangular_martix(int[][] x){
+    void upper_triangular_matrix(int[][] x){
         System.out.println("Upper triangular matrix of ARRAY 1");
         for(int i=0;i<x.length;i++)
         {
@@ -246,8 +247,8 @@ public class Main {
         System.out.println("Subtraction of both");
         m.sub(arr1,arr2,arr3);
         m.compare(arr1,arr2);
-        m.lower_triangular_martix(arr1);
-        m.upper_triangular_martix(arr1);
+        m.lower_triangular_matrix(arr1);
+        m.upper_triangular_matrix(arr1);
         m.freq_odd_even(arr1);
         m.sum_0f_row_col(arr1);
         m.mul(arr1,arr2,arr3);
